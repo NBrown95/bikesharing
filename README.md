@@ -6,7 +6,7 @@ For this project, we use a csv data file that contains information about Citi bi
 
 ## Results
 
-The following images show relevant data visualizations for New York City’s Citi bike usage.
+The following images show relevant data visualizations for New York City’s Citi bike usage. To see the story on Tableau Public following this [link](https://public.tableau.com/app/profile/nathan5690/viz/BikesharingChallenge_16269877127300/Story1?publish=yes)
 
 ![Screenshot 1](https://user-images.githubusercontent.com/81498850/126834257-fb915573-0763-4570-9b12-68ef585c6239.png)
 
